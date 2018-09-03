@@ -1,36 +1,241 @@
 {
-    "kunder": [
-      { "ordanr": 1, "kund": "Kund 1", "kundnr": 100, "handlaggare": "handlaggare1", "kundkontakt": "kundkontakt1", "land": "Sverige1" },
-      { "ordanr": 3, "kund": "Kund 3", "kundnr": 101, "handlaggare": "handlaggare2", "kundkontakt": "kundkontakt2", "land": "Sverige2" },
-      { "ordanr": 4, "kund": "Kund 4", "kundnr": 102, "handlaggare": "handlaggare3", "kundkontakt": "kundkontakt3", "land": "Sverige3" },
-      { "ordanr": 5, "kund": "Kund 5", "kundnr": 103, "handlaggare": "handlaggare4", "kundkontakt": "kundkontakt4", "land": "Sverige4" },
-      { "ordanr": 2, "kund": "Kund 2", "kundnr": 104, "handlaggare": "handlaggare5", "kundkontakt": "kundkontakt5", "land": "Sverige5" },
-      { "ordanr": 6, "kund": "Kund 6", "kundnr": 105, "handlaggare": "handlaggare6", "kundkontakt": "kundkontakt6", "land": "Sverige6" },
-      { "ordanr": 7, "kund": "Kund 7", "kundnr": 106, "handlaggare": "handlaggare7", "kundkontakt": "kundkontakt7", "land": "Sverige7" },
-      { "ordanr": 8, "kund": "Kund 8", "kundnr": 107, "handlaggare": "handlaggare8", "kundkontakt": "kundkontakt8", "land": "Sverige8" },
-      { "ordanr": 9, "kund": "Kund 9", "kundnr": 108, "handlaggare": "handlaggare9", "kundkontakt": "kundkontakt9", "land": "Sverige9" },
-      { "ordanr": 10, "kund": "Kund 10", "kundnr": 109, "handlaggare": "handlaggare10", "kundkontakt": "kundkontakt10", "land": "Sverige10" },
-      { "ordanr": 11, "kund": "Kund 11", "kundnr": 110, "handlaggare": "handlaggare11", "kundkontakt": "kundkontakt11", "land": "Sverige11" },
-      { "ordanr": 12, "kund": "Kund 12", "kundnr": 111, "handlaggare": "handlaggare12", "kundkontakt": "kundkontakt12", "land": "Sverige12" },
-      { "ordanr": 13, "kund": "Kund 13", "kundnr": 112, "handlaggare": "handlaggare13", "kundkontakt": "kundkontakt13", "land": "Sverige13" },
-      { "ordanr": 14, "kund": "Kund 14", "kundnr": 113, "handlaggare": "handlaggare14", "kundkontakt": "kundkontakt14", "land": "Sverige14" },
-      { "ordanr": 15, "kund": "Kund 15", "kundnr": 114, "handlaggare": "handlaggare15", "kundkontakt": "kundkontakt15", "land": "Sverige15" },
-      { "ordanr": 16, "kund": "Kund 16", "kundnr": 115, "handlaggare": "handlaggare16", "kundkontakt": "kundkontakt16", "land": "Sverige16" },
-      { "ordanr": 17, "kund": "Kund 17", "kundnr": 116, "handlaggare": "handlaggare17", "kundkontakt": "kundkontakt17", "land": "Sverige17" },
-      { "ordanr": 18, "kund": "Kund 18", "kundnr": 117, "handlaggare": "handlaggare18", "kundkontakt": "kundkontakt18", "land": "Sverige18" },
-      { "ordanr": 19, "kund": "Kund 19", "kundnr": 118, "handlaggare": "handlaggare19", "kundkontakt": "kundkontakt19", "land": "Sverige19" },
-      { "ordanr": 20, "kund": "Kund 20", "kundnr": 119, "handlaggare": "handlaggare20", "kundkontakt": "kundkontakt20", "land": "Sverige20" },
-      { "ordanr": 21, "kund": "Kund 21", "kundnr": 120, "handlaggare": "handlaggare21", "kundkontakt": "kundkontakt21", "land": "Sverige21" },
-      { "ordanr": 22, "kund": "Kund 22", "kundnr": 121, "handlaggare": "handlaggare22", "kundkontakt": "kundkontakt22", "land": "Sverige22" },
-      { "ordanr": 23, "kund": "Kund 23", "kundnr": 122, "handlaggare": "handlaggare23", "kundkontakt": "kundkontakt23", "land": "Sverige23" },
-      { "ordanr": 24, "kund": "Kund 24", "kundnr": 123, "handlaggare": "handlaggare24", "kundkontakt": "kundkontakt24", "land": "Sverige24" },
-      { "ordanr": 25, "kund": "Kund 25", "kundnr": 124, "handlaggare": "handlaggare25", "kundkontakt": "kundkontakt25", "land": "Sverige25" }
-    ],
+	"kunder": [{
+			"ordanr": 1,
+			"kund": "Kund 1",
+			"kundnr": 100,
+			"handlaggare": "handlaggare1",
+			"kundkontakt": "kundkontakt1",
+			"land": "Sverige1"
+		},
+		{
+			"ordanr": 3,
+			"kund": "Kund 3",
+			"kundnr": 101,
+			"handlaggare": "handlaggare2",
+			"kundkontakt": "kundkontakt2",
+			"land": "Sverige2"
+		},
+		{
+			"ordanr": 4,
+			"kund": "Kund 4",
+			"kundnr": 102,
+			"handlaggare": "handlaggare3",
+			"kundkontakt": "kundkontakt3",
+			"land": "Sverige3"
+		},
+		{
+			"ordanr": 5,
+			"kund": "Kund 5",
+			"kundnr": 103,
+			"handlaggare": "handlaggare4",
+			"kundkontakt": "kundkontakt4",
+			"land": "Sverige4"
+		},
+		{
+			"ordanr": 2,
+			"kund": "Kund 2",
+			"kundnr": 104,
+			"handlaggare": "handlaggare5",
+			"kundkontakt": "kundkontakt5",
+			"land": "Sverige5"
+		},
+		{
+			"ordanr": 6,
+			"kund": "Kund 6",
+			"kundnr": 105,
+			"handlaggare": "handlaggare6",
+			"kundkontakt": "kundkontakt6",
+			"land": "Sverige6"
+		},
+		{
+			"ordanr": 7,
+			"kund": "Kund 7",
+			"kundnr": 106,
+			"handlaggare": "handlaggare7",
+			"kundkontakt": "kundkontakt7",
+			"land": "Sverige7"
+		},
+		{
+			"ordanr": 8,
+			"kund": "Kund 8",
+			"kundnr": 107,
+			"handlaggare": "handlaggare8",
+			"kundkontakt": "kundkontakt8",
+			"land": "Sverige8"
+		},
+		{
+			"ordanr": 9,
+			"kund": "Kund 9",
+			"kundnr": 108,
+			"handlaggare": "handlaggare9",
+			"kundkontakt": "kundkontakt9",
+			"land": "Sverige9"
+		},
+		{
+			"ordanr": 10,
+			"kund": "Kund 10",
+			"kundnr": 109,
+			"handlaggare": "handlaggare10",
+			"kundkontakt": "kundkontakt10",
+			"land": "Sverige10"
+		},
+		{
+			"ordanr": 11,
+			"kund": "Kund 11",
+			"kundnr": 110,
+			"handlaggare": "handlaggare11",
+			"kundkontakt": "kundkontakt11",
+			"land": "Sverige11"
+		},
+		{
+			"ordanr": 12,
+			"kund": "Kund 12",
+			"kundnr": 111,
+			"handlaggare": "handlaggare12",
+			"kundkontakt": "kundkontakt12",
+			"land": "Sverige12"
+		},
+		{
+			"ordanr": 13,
+			"kund": "Kund 13",
+			"kundnr": 112,
+			"handlaggare": "handlaggare13",
+			"kundkontakt": "kundkontakt13",
+			"land": "Sverige13"
+		},
+		{
+			"ordanr": 14,
+			"kund": "Kund 14",
+			"kundnr": 113,
+			"handlaggare": "handlaggare14",
+			"kundkontakt": "kundkontakt14",
+			"land": "Sverige14"
+		},
+		{
+			"ordanr": 15,
+			"kund": "Kund 15",
+			"kundnr": 114,
+			"handlaggare": "handlaggare15",
+			"kundkontakt": "kundkontakt15",
+			"land": "Sverige15"
+		},
+		{
+			"ordanr": 16,
+			"kund": "Kund 16",
+			"kundnr": 115,
+			"handlaggare": "handlaggare16",
+			"kundkontakt": "kundkontakt16",
+			"land": "Sverige16"
+		},
+		{
+			"ordanr": 17,
+			"kund": "Kund 17",
+			"kundnr": 116,
+			"handlaggare": "handlaggare17",
+			"kundkontakt": "kundkontakt17",
+			"land": "Sverige17"
+		},
+		{
+			"ordanr": 18,
+			"kund": "Kund 18",
+			"kundnr": 117,
+			"handlaggare": "handlaggare18",
+			"kundkontakt": "kundkontakt18",
+			"land": "Sverige18"
+		},
+		{
+			"ordanr": 19,
+			"kund": "Kund 19",
+			"kundnr": 118,
+			"handlaggare": "handlaggare19",
+			"kundkontakt": "kundkontakt19",
+			"land": "Sverige19"
+		},
+		{
+			"ordanr": 20,
+			"kund": "Kund 20",
+			"kundnr": 119,
+			"handlaggare": "handlaggare20",
+			"kundkontakt": "kundkontakt20",
+			"land": "Sverige20"
+		},
+		{
+			"ordanr": 21,
+			"kund": "Kund 21",
+			"kundnr": 120,
+			"handlaggare": "handlaggare21",
+			"kundkontakt": "kundkontakt21",
+			"land": "Sverige21"
+		},
+		{
+			"ordanr": 22,
+			"kund": "Kund 22",
+			"kundnr": 121,
+			"handlaggare": "handlaggare22",
+			"kundkontakt": "kundkontakt22",
+			"land": "Sverige22"
+		},
+		{
+			"ordanr": 23,
+			"kund": "Kund 23",
+			"kundnr": 122,
+			"handlaggare": "handlaggare23",
+			"kundkontakt": "kundkontakt23",
+			"land": "Sverige23"
+		},
+		{
+			"ordanr": 24,
+			"kund": "Kund 24",
+			"kundnr": 123,
+			"handlaggare": "handlaggare24",
+			"kundkontakt": "kundkontakt24",
+			"land": "Sverige24"
+		},
+		{
+			"ordanr": 25,
+			"kund": "Kund 25",
+			"kundnr": 124,
+			"handlaggare": "handlaggare25",
+			"kundkontakt": "kundkontakt25",
+			"land": "Sverige25"
+		}
+	],
 
-    "utskrift": [
-        {"pos": 001, "stalsort": "280T", "rubrik":"V", "dim":120, "kg": 256, "ramatt": 110.00, "kgm":35.14 },
-        {"pos": 002, "stalsort": "280T", "rubrik":"VSV", "dim":150, "kg": 359, "ramatt": 110.00, "kgm":35.14 },
-        {"pos": 003, "stalsort": "280T", "rubrik":"k", "dim":0, "kg": 0, "ramatt": 110.00, "kgm":35.14 },
-        {"pos": 004, "stalsort": "280T", "rubrik":"V", "dim":120, "kg": 256, "ramatt": 110.00, "kgm":35.14 }
-    ]
-  }
+	"utskrift": [{
+			"pos": 1,
+			"stalsort": "280T",
+			"rubrik": "V",
+			"dim": 120,
+			"kg": 256,
+			"ramatt": 110.0,
+			"kgm": 35.14
+		},
+		{
+			"pos": 2,
+			"stalsort": "280T",
+			"rubrik": "VSV",
+			"dim": 150,
+			"kg": 359,
+			"ramatt": 110.0,
+			"kgm": 35.14
+		},
+		{
+			"pos": 3,
+			"stalsort": "280T",
+			"rubrik": "k",
+			"dim": 0,
+			"kg": 0,
+			"ramatt": 110.0,
+			"kgm": 35.14
+		},
+		{
+			"pos": 4,
+			"stalsort": "280T",
+			"rubrik": "V",
+			"dim": 120,
+			"kg": 256,
+			"ramatt": 110.0,
+			"kgm": 35.14
+		}
+	]
+}
