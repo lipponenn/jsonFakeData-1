@@ -28,9 +28,9 @@
     ],
 
     "utskrift": [
-        {"pos": 001, "stalsort": "280T", "rubrik":"V", "dim":120, "kg": 256, "ramatt": 110.00, "kgm":35.14 }
-        {"pos": 002, "stalsort": "280T", "rubrik":"VSV", "dim":150, "kg": 359, "ramatt": 110.00, "kgm":35.14 }
-        {"pos": 003, "stalsort": "280T", "rubrik":"k", "dim":0, "kg": 0, "ramatt": 110.00, "kgm":35.14 }
+        {"pos": 001, "stalsort": "280T", "rubrik":"V", "dim":120, "kg": 256, "ramatt": 110.00, "kgm":35.14 },
+        {"pos": 002, "stalsort": "280T", "rubrik":"VSV", "dim":150, "kg": 359, "ramatt": 110.00, "kgm":35.14 },
+        {"pos": 003, "stalsort": "280T", "rubrik":"k", "dim":0, "kg": 0, "ramatt": 110.00, "kgm":35.14 },
         {"pos": 004, "stalsort": "280T", "rubrik":"V", "dim":120, "kg": 256, "ramatt": 110.00, "kgm":35.14 }
     ],
     "for180": [
