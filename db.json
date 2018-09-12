@@ -47,7 +47,7 @@
       {"kategori": "String", "rv": 4, "yd": 231.0, "id":301.2, "vagg": 1.3, "kgm": 21.99, "prodnr": 1293, "vb": 1, "pg":123, "stal": "280T", "length": 12.3, "yd2": 1412, "id2":129, "kgm_percent": 15, "priority": "VERY HIGH"},
       {"kategori": "String", "rv": 4, "yd": 241.0, "id":91.2, "vagg": 1.3, "kgm": 121.99, "prodnr": 1293, "vb": 1, "pg":123, "stal": "280T", "length": 12.38, "yd2": 1412, "id2":129, "kgm_percent": 15, "priority": "VERY HIGH"},
       {"kategori": "String", "rv": 6, "yd": 251.0, "id":81.2, "vagg": 1.3, "kgm": 21.99, "prodnr": 1293, "vb": 1, "pg":123, "stal": "280T", "length": 12.63, "yd2": 1412, "id2":129, "kgm_percent": 15, "priority": "VERY HIGH"},
-      {"kategori": "String", "rv": 4, "yd": 261.0, "id":71.2, "vagg": 1.3, "kgm": 121.99, "prodnr": 1293, "vb": 1, "pg":123, "stal": "280T", "length": 12.63, "yd2": 1412, "id2":129, "kgm_percent": 15, "priority": "VERY HIGH"},
+      {"kategori": "String", "rv": 4, "yd": 261.0, "id":71.2, "vagg": 1.3, "kgm": 121.99, "prodnr": 1293, "vb": 1, "pg":123, "stal": "280T", "length": 12.63, "yd2": 1412, "id2":129, "kgm_percent": 15, "priority": "VERY HIGH"}
     ]
 
   }
