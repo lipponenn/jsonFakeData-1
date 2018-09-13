@@ -65,5 +65,78 @@
 			"vikt6": 98.0,
 			"andringsdatum": 130521
 		}
-	]	
+	],
+	"mur110": [{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		},
+		{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		},
+		{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		},
+		{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		},
+		{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		},
+		{
+			"rorverk": 5,
+			"pluggdiam": 77.0,
+			"ydiam": 162.0,
+			"amnediam": 150,
+			"vh": 38.0,
+			"pluggstang": 65,
+			"stanglage": 42,
+			"valvinkel": 0,
+			"valsmatt": 133,
+			"datum": "100504"
+		}
+	]
 }
