@@ -138,5 +138,78 @@
 			"valsmatt": 133,
 			"datum": "100504"
 		}
+	],
+	"mur143": [{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		},
+		{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		},
+		{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		},
+		{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		},
+		{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		},
+		{
+			"Op-id": 5,
+			"Tom VB": 77.0,
+			"From VB": 162.0,
+			"Formel": 150,
+			"YD-K1": 38.0,
+			"YD-K2": 65,
+			"Formel": 42,
+			"YD-K1": 0,
+			"YD-K2": 133,
+			"datum": "100504"
+		}
 	]
 }
